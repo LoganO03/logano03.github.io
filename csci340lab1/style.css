@@ -1,1 +1,12 @@
+body{
+    margin: 0;
+}
+header{
+    padding: 20px 0;
+    background-color: dodgerblue;
+}
 
+header .row{
+    display: flex;
+    align-items: center;
+}

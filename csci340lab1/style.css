@@ -1,5 +1,8 @@
 body{
+    background-color: lightgray;
     margin: 0;
+    display: flex;
+    flex-direction: column;
 }
 header{
     padding: 20px 0;
@@ -9,4 +12,19 @@ header{
 header .row{
     display: flex;
     align-items: center;
+}
+
+footer{
+    padding: 10px 0;
+    background-color: dodgerblue;
+    margin-top: 20px;
+}
+
+footer .row{
+    display: flex;
+    align-items: center;
+}
+
+main{
+    flex: 1;
 }

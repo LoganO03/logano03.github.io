@@ -3,10 +3,12 @@ body{
     margin: 0;
     display: flex;
     flex-direction: column;
+    min-height: 100vh;
 }
 header{
     padding: 20px 0;
     background-color: dodgerblue;
+    margin-bottom: 20px;
 }
 
 header .row{
@@ -17,7 +19,7 @@ header .row{
 footer{
     padding: 10px 0;
     background-color: dodgerblue;
-    margin-top: 20px;
+    margin-top: auto;
 }
 
 footer .row{
@@ -33,4 +35,8 @@ section .row img {
 
 .col-md-4 {
   margin: 0 0 30px;
+}
+
+p{
+    font-size: 18px;
 }

@@ -1,0 +1,17 @@
+header{
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-shadow: blue 5px 0px 2px,
+    red -5px 0px 2px;
+    text-align: center;
+    h1{
+        font-size: 85px;
+    }
+}
+
+body{
+    background-color: gray;
+    margin: 0;
+    padding: 0;
+}

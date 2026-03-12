@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RazerPagesAnime")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f4cb4bc81c76e601aa79c8ac52a1b792424e66c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d50f533a3321354fbbcea8c2970fdf06f01047c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("RazerPagesAnime")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RazerPagesAnime")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

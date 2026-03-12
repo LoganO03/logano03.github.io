@@ -8,6 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 builder.Services.AddDbContext<RazorPagesAnimeContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("RazorPagesAnimeContext") ?? throw new InvalidOperationException("Connection string 'RazorPagesAnimeContext' not found.")));
+builder.Services.AddValidation();
 
 var app = builder.Build();
 

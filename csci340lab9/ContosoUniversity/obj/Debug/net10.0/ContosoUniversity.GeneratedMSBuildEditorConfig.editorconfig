@@ -19,61 +19,61 @@ build_property.TargetFrameworkIdentifier = .NETCoreApp
 build_property.TargetFrameworkVersion = v10.0
 build_property.RootNamespace = ContosoUniversity
 build_property.RootNamespace = ContosoUniversity
-build_property.ProjectDir = C:\Users\jloga\DatabaseAndWebSystems\logano03.github.io\csci340lab9\ContosoUniversity\
+build_property.ProjectDir = C:\Users\charg\csci340\logano03.github.io\csci340lab9\ContosoUniversity\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\jloga\DatabaseAndWebSystems\logano03.github.io\csci340lab9\ContosoUniversity
+build_property.MSBuildProjectDirectory = C:\Users\charg\csci340\logano03.github.io\csci340lab9\ContosoUniversity
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/jloga/DatabaseAndWebSystems/logano03.github.io/csci340lab9/ContosoUniversity/Pages/Error.cshtml]
+[C:/Users/charg/csci340/logano03.github.io/csci340lab9/ContosoUniversity/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jloga/DatabaseAndWebSystems/logano03.github.io/csci340lab9/ContosoUniversity/Pages/Index.cshtml]
+[C:/Users/charg/csci340/logano03.github.io/csci340lab9/ContosoUniversity/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jloga/DatabaseAndWebSystems/logano03.github.io/csci340lab9/ContosoUniversity/Pages/Privacy.cshtml]
+[C:/Users/charg/csci340/logano03.github.io/csci340lab9/ContosoUniversity/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jloga/DatabaseAndWebSystems/logano03.github.io/csci340lab9/ContosoUniversity/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/charg/csci340/logano03.github.io/csci340lab9/ContosoUniversity/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jloga/DatabaseAndWebSystems/logano03.github.io/csci340lab9/ContosoUniversity/Pages/Students/Create.cshtml]
+[C:/Users/charg/csci340/logano03.github.io/csci340lab9/ContosoUniversity/Pages/Students/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jloga/DatabaseAndWebSystems/logano03.github.io/csci340lab9/ContosoUniversity/Pages/Students/Delete.cshtml]
+[C:/Users/charg/csci340/logano03.github.io/csci340lab9/ContosoUniversity/Pages/Students/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jloga/DatabaseAndWebSystems/logano03.github.io/csci340lab9/ContosoUniversity/Pages/Students/Details.cshtml]
+[C:/Users/charg/csci340/logano03.github.io/csci340lab9/ContosoUniversity/Pages/Students/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jloga/DatabaseAndWebSystems/logano03.github.io/csci340lab9/ContosoUniversity/Pages/Students/Edit.cshtml]
+[C:/Users/charg/csci340/logano03.github.io/csci340lab9/ContosoUniversity/Pages/Students/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jloga/DatabaseAndWebSystems/logano03.github.io/csci340lab9/ContosoUniversity/Pages/Students/Index.cshtml]
+[C:/Users/charg/csci340/logano03.github.io/csci340lab9/ContosoUniversity/Pages/Students/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jloga/DatabaseAndWebSystems/logano03.github.io/csci340lab9/ContosoUniversity/Pages/_ViewImports.cshtml]
+[C:/Users/charg/csci340/logano03.github.io/csci340lab9/ContosoUniversity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jloga/DatabaseAndWebSystems/logano03.github.io/csci340lab9/ContosoUniversity/Pages/_ViewStart.cshtml]
+[C:/Users/charg/csci340/logano03.github.io/csci340lab9/ContosoUniversity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jloga/DatabaseAndWebSystems/logano03.github.io/csci340lab9/ContosoUniversity/Pages/Shared/_Layout.cshtml]
+[C:/Users/charg/csci340/logano03.github.io/csci340lab9/ContosoUniversity/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-bnnbnzjzeh

@@ -8,7 +8,6 @@ body{
 header{
     padding: 20px 0;
     background-color: dodgerblue;
-    margin-bottom: 20px;
 }
 
 header .row{
@@ -39,4 +38,19 @@ section .row img {
 
 p{
     font-size: 18px;
+}
+
+.jumbotron{
+    display: flex;
+    background-image: url('https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?q=80&w=2062&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    min-height: 500px;
+    margin-bottom: 20px;
+}
+.jumbotron .container{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
 }

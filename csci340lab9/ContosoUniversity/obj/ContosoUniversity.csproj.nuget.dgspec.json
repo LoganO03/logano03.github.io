@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jloga\\DatabaseAndWebSystems\\logano03.github.io\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj": {}
+    "C:\\Users\\charg\\csci340\\logano03.github.io\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jloga\\DatabaseAndWebSystems\\logano03.github.io\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj": {
+    "C:\\Users\\charg\\csci340\\logano03.github.io\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jloga\\DatabaseAndWebSystems\\logano03.github.io\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectUniqueName": "C:\\Users\\charg\\csci340\\logano03.github.io\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj",
         "projectName": "ContosoUniversity",
-        "projectPath": "C:\\Users\\jloga\\DatabaseAndWebSystems\\logano03.github.io\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj",
-        "packagesPath": "C:\\Users\\jloga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jloga\\DatabaseAndWebSystems\\logano03.github.io\\csci340lab9\\ContosoUniversity\\obj\\",
+        "projectPath": "C:\\Users\\charg\\csci340\\logano03.github.io\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj",
+        "packagesPath": "C:\\Users\\charg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\charg\\csci340\\logano03.github.io\\csci340lab9\\ContosoUniversity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jloga\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\charg\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -46,27 +46,27 @@
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[10.0.4, )"
+              "version": "[10.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.4, )"
+              "version": "[10.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[10.0.4, )"
+              "version": "[10.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[10.0.4, )"
+              "version": "[10.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.4, )"
+              "version": "[10.0.5, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
@@ -92,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jloga\\DatabaseAndWebSystems\\logano03.github.io\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj": {}
+    "c:\\Users\\jloga\\DatabaseAndWebSystems\\logano03.github.io\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jloga\\DatabaseAndWebSystems\\logano03.github.io\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj": {
+    "c:\\Users\\jloga\\DatabaseAndWebSystems\\logano03.github.io\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jloga\\DatabaseAndWebSystems\\logano03.github.io\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectUniqueName": "c:\\Users\\jloga\\DatabaseAndWebSystems\\logano03.github.io\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj",
         "projectName": "ContosoUniversity",
-        "projectPath": "C:\\Users\\jloga\\DatabaseAndWebSystems\\logano03.github.io\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectPath": "c:\\Users\\jloga\\DatabaseAndWebSystems\\logano03.github.io\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj",
         "packagesPath": "C:\\Users\\jloga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jloga\\DatabaseAndWebSystems\\logano03.github.io\\csci340lab9\\ContosoUniversity\\obj\\",
+        "outputPath": "c:\\Users\\jloga\\DatabaseAndWebSystems\\logano03.github.io\\csci340lab9\\ContosoUniversity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jloga\\AppData\\Roaming\\NuGet\\NuGet.Config"

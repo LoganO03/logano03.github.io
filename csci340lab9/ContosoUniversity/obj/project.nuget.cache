@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G8XyRjD2N9U=",
+  "dgSpecHash": "e/qYJDQ8D7g=",
   "success": true,
-  "projectFilePath": "c:\\Users\\jloga\\DatabaseAndWebSystems\\logano03.github.io\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj",
+  "projectFilePath": "C:\\Users\\jloga\\DatabaseAndWebSystems\\logano03.github.io\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jloga\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\jloga\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

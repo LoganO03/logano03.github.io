@@ -2,6 +2,7 @@
 layout: page
 title: Video Games
 permalink: /video-games/
+image: /assets/images/VGBackground.JPG
 ---
 Video Games are one of my many fascinations. I have played them since i was as yound as 5 years old.
 

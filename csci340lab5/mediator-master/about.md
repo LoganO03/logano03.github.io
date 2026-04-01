@@ -4,14 +4,21 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+### About Me
+Hi, my name is Logan O'Roark! I am a Computer Science and Mathematics double major at Hendrix College. I am curently a senior, and during my time at Hendrix I have competed for the football and track & field teams.
+#### My Hobbies
+Among attending school, I have many hobbies:
+- Working out 
+- Cooking
+- Playing video games
+- Reading
+- Camping
+- Video game development
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+#### Fun Facts
+Some fun facts:
+- I graduated from one of the biggest high schools in Texas - Allen High School, Allen, TX
+- I coached college football
+- I have camped in five different states
+- I was born in Georgia, USA
+- My lifetime bench PR is 335 lbs

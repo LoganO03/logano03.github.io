@@ -2,7 +2,7 @@
 $(document).ready(function() {
     $('.getFact').click(function() {
         $.ajax({
-            url: 'https://anime-facts-rest-api.herokuapp.com/api/v1',
+            url: 'https://anime-facts-rest-api.herokuapp.com/api/v1/fma_brotherhood',
             type: 'GET',
             dataType: 'json',
             success: function(results){

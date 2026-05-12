@@ -1,5 +1,5 @@
 header{
-    background-color: #361f1c;
+    background-color: #2e1503;
     color: white;
     padding: 20px;
     text-align: center;
@@ -23,6 +23,9 @@ body {
     margin-bottom: 1.5rem;
     background: rgb(172, 67, 19);
     box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+    text-align: center;
+    color: #2e1503;
+
 }
 
 .btn-coffee {
@@ -31,6 +34,7 @@ body {
     border: none;
     border-radius: 8px;
     padding: 0.6rem 1.5rem;
+    text-align: center;
 }
 
 .btn-coffee:hover {
@@ -46,11 +50,22 @@ body {
     line-height: 1.7;
 }
 
-
-
 .coffee-img {
     width: 100%;
     border-radius: 8px;
-        margin-top: 1rem;
-        display: none;
+    margin-top: 1rem;
+    display: none;
+}
+
+
+
+
+footer{
+    background-color: #2e1503;
+    color: white;
+    padding: 40px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }

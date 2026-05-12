@@ -1,16 +1,16 @@
-//Anime Fact API
+//Random Fact API
 $(document).ready(function() {
     $('.getFact').click(function() {
         $.ajax({
-            url: 'https://anime-facts-rest-api.herokuapp.com/api/v1/fma_brotherhood',
+            url: 'https://uselessfacts.jsph.pl/api/v2/facts/random',
             type: 'GET',
             dataType: 'json',
             success: function(results){
-                $('.fact').text(results.data[0].fact);
+                $('.fact').text(results.text);
             },
             error: function(xhr,status,error){
                 console.log(error);
-                $('.fact').text('Could not load anime fact.');
+                $('.fact').text('Could not load a random fact.');
             }
         });
     });

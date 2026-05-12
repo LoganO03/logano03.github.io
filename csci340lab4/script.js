@@ -1,6 +1,16 @@
 //Random Fact API
 $(document).ready(function() {
-    $('.getFact').click(function() {
+
+    $('#fact-button').click(function (){
+        getFact();
+    });
+    $('#coffee-button').click(function() {
+        getCoffee();
+    });
+
+
+
+    function getFact(){
         $.ajax({
             url: 'https://uselessfacts.jsph.pl/api/v2/facts/random',
             type: 'GET',
@@ -13,5 +23,13 @@ $(document).ready(function() {
                 $('.fact').text('Could not load a random fact.');
             }
         });
-    });
+    }
+
+    function getCoffee() {
+        var timestamp = new Date().getTime(); // prevents browser caching the same image
+        $('.coffee-img')
+            .attr('src', 'https://coffee.alexflipnote.dev/random?' + timestamp)
+            .show();
+    }
+        
 });
